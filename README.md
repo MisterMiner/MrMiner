@@ -1,2 +1,22 @@
 # MrMiner
 Mr Miner is a GUI to help people get into mining in less than 5 minutes
+
+To get started download the zip file, unzip it and Cilck on the MrMiner exe.
+
+Once the application opens, select the currency that you want to mine and start making some $$$.
+
+We just started so we WILL have bugs! for bug reporting or general Sugestions please email us to aguy@misterminers . com 
+
+we currently support mining for: Ethereum, Etereum Classic, Monero, Zcash and Sia.
+
+We connect you to mining pools which take a 1% comission and in Ethereum we also take a 1% comission.
+
+If you like our work or wanna buy a beer for this college students feel free to send us a donation ;)
+
+zcash: t1ZQHoSdHJEEiT9pum2gu3G2cULDma7wL36⁠⁠⁠⁠
+monero: 46cWCthNrLQUo8AymhnRtgLmAsRzhb6d3gvV3opTaxsMZ93mL8x6kvdMUq9xDAmL7jg45Sz1NKkq6BDNXHpvLqZUFsRUt5U
+sia: 0797fafd563cc5c4acac771b5df20455e57b6d5740d112b238b848e7690c2a2b27743d692786
+etc: 4aa42359a5f6a97ad2f365453b6359b1e754a06d
+eth: 3fc999b03089458cbc79b9f206049bbb5edb4565
+
+Thanks and happy Mining :)
