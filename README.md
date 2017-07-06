@@ -7,7 +7,7 @@ Once the application opens, select the currency that you want to mine and start 
 
 We just started so we WILL have bugs! for bug reporting or general Sugestions please email us to aguy@misterminers . com <br>
 
-we currently support mining for: Ethereum, Etereum Classic, Monero, Zcash and Sia.<br>
+we currently support mining for: Ethereum, Etereum Classic, Monero, Zcash and Sia. <br>
 
 We connect you to mining pools which take a 1% comission and in Ethereum we also take a 1% comission. <br>
 
